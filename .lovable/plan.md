@@ -7,6 +7,8 @@ Replace the starter homepage with a refined French-language website for Eurelec,
 - Use a clear institutional visual system: deep green, restrained crimson accents, editorial typography, strong spacing, and Eurelec's own logo and student photography.
 - Build a full-bleed student-focused opening with concise positioning, 1968–2026 / 58-year proof point, and admissions CTA.
 - Organize the rest of the homepage into a concise institute introduction, study programs, verified school facts and partners, student testimonial, admissions call-to-action, and contact footer.
+- Add a cinematic first-load entrance, refined scroll-triggered reveals and staggered section entrances, restrained image parallax, responsive hover/focus transitions, and animated number counters.
+- Keep motion smooth and intentional rather than constant, and honor reduced-motion preferences.
 - Keep existing school pages and contact links as working destinations; make navigation and the mobile menu usable.
 - Set route-specific French metadata and verify desktop/mobile rendering and the homepage navigation flow.
 
